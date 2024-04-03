@@ -54,30 +54,44 @@ Intern: US Capitol Grounds
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* EHAP
+* First Aid
+* GIS Applications
+  * ArcPro
+  * ArcOnline
+  * QGIS
+* Microsoft Office
+  * Word
+  * PowerPoint
+  * Excel
 
-Publications
+Certifications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+ISA – Certified Arborist
+* April 2022
+* Certification ID: MA-6525A
+
+MDA– Pesticide Applicator
+* June 2022
+* Certification IDs: 1329-95706
+ * Categories: 3A, 6
   
-Talks
+Qualifications
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+lSA – Tree Risk Assessment Qualification
+* August 2022
+ 
+Licenses
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+MD CDL license – Class B
+* June 2022
+* License Number: MD-10272063662
+ * Restrictions: B, E
+
+Maryland DNR - Licensed Tree Expert 
+* July 2022  
+* License Number: 2526
+
   
 Service and leadership
 ======
