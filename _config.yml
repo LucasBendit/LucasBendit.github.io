@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Lucas Bendit / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Lucas Bendit"
+description              : &description "An arborist by day, Geograghy student by night"
 url                      : https://LucasBendit.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "LucasBendit/LucasBendit.github.io"
@@ -22,8 +22,8 @@ repository               : "LucasBendit/LucasBendit.github.io"
 author:
   # Biographic information
   avatar           : "Profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Lucas Bendit"
+  pronouns         : "he/his"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "Red Brick University"
