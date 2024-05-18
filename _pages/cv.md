@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 Safety Committee Member 
-* Bartlett Tree Experts – February 2023
+* Bartlett Tree Experts – February 2023 - Present
 * Developed and advised on recommendations to remove hazards 
 * Identified accident causes and devised preventative strategies via conducting investigations and analyses.
 
@@ -91,8 +91,3 @@ MD CDL license – Class B
 Maryland DNR - Licensed Tree Expert 
 * July 2022  
 * License Number: 2526
-
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
