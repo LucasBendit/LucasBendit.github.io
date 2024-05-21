@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Lucas Bendit / Site Title"
+title                    : "Lucas Bendit"
 title_separator          : "-"
 name                     : &name "Lucas Bendit"
-description              : &description "An arborist by day, Geograghy student by night"
+description              : &description "An Arborist by day, Geograghy student by night"
 url                      : https://LucasBendit.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "LucasBendit/LucasBendit.github.io"
@@ -24,18 +24,17 @@ author:
   avatar           : "Profile.png"
   name             : "Lucas Bendit"
   pronouns         : "he/his"  
-  bio              : "An arborist by day, Geograghy student by night"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "An Arborist by day, Geograghy student by night"
+  location         : "Greater DC Area"
+  employer         : "Bartlett Tree Experts"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "Lucas.bendit@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
